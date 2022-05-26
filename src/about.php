@@ -8,10 +8,9 @@
 // * Github: https://github.com/megyerimark/
 // * Licenc: GNU GPL
 
-
-
 echo file_get_contents('templates/head.html');
-echo file_get_contents('templates/home.html');
+echo file_get_contents('templates/about.html');
 echo file_get_contents('templates/foot.html');
 
-?>
+
+?> 
